@@ -2,4 +2,13 @@
 
 *(We're going to rebrand soon so Pixelbite is temporary)*
 
-test
+## Current Directories
+
++ Red vs Blue
++ UHC
++ Meetup Sim
++ Battle Royale
++ Chunked
++ Hub
++ Backend
++ Cosmetics
